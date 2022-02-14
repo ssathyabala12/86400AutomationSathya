@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "86400AutomationSathya", "86400AutomationSathya\86400AutomationSathya.csproj", "{6A3CBC73-34A4-45B8-A826-BA6B294B9BDA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiAutomation", "ApiAutomation\ApiAutomation.csproj", "{74FFF6B1-8957-486A-8C72-A54ED01EFDA4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1BC686BD-5ACD-4BFC-B634-722A182CCEA3}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMe.md = ReadMe.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A3CBC73-34A4-45B8-A826-BA6B294B9BDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A3CBC73-34A4-45B8-A826-BA6B294B9BDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A3CBC73-34A4-45B8-A826-BA6B294B9BDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A3CBC73-34A4-45B8-A826-BA6B294B9BDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74FFF6B1-8957-486A-8C72-A54ED01EFDA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74FFF6B1-8957-486A-8C72-A54ED01EFDA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74FFF6B1-8957-486A-8C72-A54ED01EFDA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74FFF6B1-8957-486A-8C72-A54ED01EFDA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF948BAC-1D6D-464D-8044-E855C26B8174}
+	EndGlobalSection
+EndGlobal

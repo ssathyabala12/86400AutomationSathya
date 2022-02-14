@@ -1,0 +1,6 @@
+C:\Source\86400AutomationSathya\ApiAutomation\obj\Debug\net472\ApiAutomation.csproj.AssemblyReference.cache
+C:\Source\86400AutomationSathya\ApiAutomation\obj\Debug\net472\ApiAutomation.csproj.SuggestedBindingRedirects.cache
+C:\Source\86400AutomationSathya\ApiAutomation\obj\Debug\net472\ApiAutomation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\86400AutomationSathya\ApiAutomation\obj\Debug\net472\ApiAutomation.AssemblyInfoInputs.cache
+C:\Source\86400AutomationSathya\ApiAutomation\obj\Debug\net472\ApiAutomation.AssemblyInfo.cs
+C:\Source\86400AutomationSathya\ApiAutomation\obj\Debug\net472\ApiAutomation.csproj.CoreCompileInputs.cache
